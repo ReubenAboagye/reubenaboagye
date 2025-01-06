@@ -1,5 +1,5 @@
 # Hi there! I'm **Reuben Akwasi Aboagye** 👋
-    
+![Profile Views](https://komarev.com/ghpvc/?username=ReubenAboagye&color=blue)    
 🎓 **Information Technology Student** at Akenten Appiah-Menkah University of Skills Training and Entrepreneurial Development (AAMUSTED), Kumasi, Ashanti Region, Ghana.  
 💻 **Aspiring Software Engineer** with a passion for solving problems and building innovative tech solutions.  
 🌱 Currently **learning Back End in web development** to enhance my full-stack development skills.  
