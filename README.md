@@ -24,8 +24,8 @@
 ---
 
 ---
-### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reubenaboagye&show_icons=true&theme=radical)
+### 📈 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reubenaboagye&layout=compact&theme=radical)
 
 ---
